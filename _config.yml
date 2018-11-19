@@ -17,11 +17,8 @@ keywords: Heaiai nothing1
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: Heaiai/Heaiai.github.io
+github_url: https://github.com/Heaiai
 
 ## Gem
 plugins:
@@ -179,7 +176,7 @@ gitment:
         client_secret: 26cd6317e930e96d0e5cdb85fd9082c175aecb81
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: Heaiai
     repo: blog-comments
     clientID: 07915824c7f045a5dbc6
     clientSecret: 26cd6317e930e96d0e5cdb85fd9082c175aecb81
