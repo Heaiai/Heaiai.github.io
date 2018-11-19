@@ -11,7 +11,9 @@ subtitle: 这是我的博客啊
 name: Heaiai
 email: Heaiai1992@163.com
 description: 这是Heaiai的博客，暂时还没想好要分享什么
-keywords: Heaiai nothing
+keywords: Heaiai nothing1
+
+
 encoding: "utf-8"
 favicon: favicon.png 
 
@@ -167,19 +169,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: Heaiai
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: Heaiai
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 07915824c7f045a5dbc6
+        client_secret: 26cd6317e930e96d0e5cdb85fd9082c175aecb81
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: ityouknow
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: 07915824c7f045a5dbc6
+    clientSecret: 26cd6317e930e96d0e5cdb85fd9082c175aecb81
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
